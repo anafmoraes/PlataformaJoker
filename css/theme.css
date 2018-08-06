@@ -97,6 +97,10 @@ p {
     border-radius: 3px;
 }
 
+.link{
+    color: #2eb2ff;
+}
+
 /* ----- Typography ----- */
 body {
     font-family: "Poppins", sans-serif;
