@@ -234,6 +234,7 @@ a {
     -o-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     transition: all 0.3s ease;
+
 }
 
 /*-----------------------------------------------------*/
@@ -452,6 +453,8 @@ section {
     -moz-transition: all 0.3s ease;
     transition: all 0.3s ease;
     cursor: pointer;
+    text-align: center;
+    -webkit-appearance: none;
 }
 
 .au-btn:hover {
