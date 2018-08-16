@@ -98,7 +98,7 @@ p {
 }
 
 .link{
-    color: #2eb2ff;
+    color: #1053bf;
 }
 
 /* ----- Typography ----- */
@@ -399,7 +399,7 @@ section {
 }
 
 .register-link > p > a {
-    color: #2eb2ff;
+    color: #1053bf;
 }
 
 .fontawesome-list-wrap {
@@ -482,7 +482,7 @@ section {
 }
 
 .au-btn--green {
-    background: #63c76a;
+    background: #60ef60;
 }
 
 .au-btn--green:hover {
