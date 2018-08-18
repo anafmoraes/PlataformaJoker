@@ -146,7 +146,7 @@
                                 <i class="fas fa-cart-arrow-down"></i>Loja de itens</a>
                         </li>
                         <li>
-                            <a href="map.html">
+                            <a href="material.php">
                                 <i class="fas fa-book"></i>Material de aula</a>
                         </li>
                     </ul>
