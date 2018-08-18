@@ -35,3 +35,5 @@
     <link href="css/theme.css" rel="stylesheet" media="all">
 
 </head>
+<body class="animsition">
+    <div class="page-wrapper">
