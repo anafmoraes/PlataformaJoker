@@ -125,8 +125,8 @@
             <div class="menu-sidebar__content js-scrollbar1">
                 <nav class="navbar-sidebar">
                     <ul class="list-unstyled navbar__list">
-                        <li class="active has-sub">
-                            <a class="js-arrow" href="#">
+                        <li>
+                            <a class="js-arrow" href="index0.php">
                                 <i class="fas fa-home"></i>Página inicial</a>
                         </li>
                         <li>

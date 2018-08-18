@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-md-12">
         <div class="copyright">
-            <p>Copyright © 2018 Joker. All rights reserved. Template by <a href="https://colorlib.com">Colorlib</a>.</p>
+            <p>Copyright © <?php echo date("Y"); ?> Joker</p>
         </div>
     </div>
 </div>
